@@ -1,0 +1,55 @@
+LOCUS       DQ268529                 608 bp    mRNA    linear   PRI 05-DEC-2005
+DEFINITION  Homo sapiens syntaxin 16 isoform C-like protein (STX16) mRNA, 3'
+            UTR.
+ACCESSION   DQ268529
+VERSION     DQ268529.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Anton,B., Matus,M., Canseco,J., Calva,J.C., Gonzaga,R., Flores,A.,
+            Salazar,A., Aguilera,P., Barbosa,S. and Leff,P.
+  TITLE     Cloning of Homo sapiens mRNA coding for the human brain syntaxin 16
+            isoform c/amonopeptidase-like 1 protein
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Anton,B., Matus,M., Canseco,J., Calva,J.C., Gonzaga,R., Flores,A.,
+            Salazar,A., Aguilera,P., Barbosa,S. and Leff,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2005) Molecular Neurobiology and Addictive
+            Neurochemistry Lab, National Institute of Psychiatry, Calzada
+            Mexico Xochimilco 101, Mexico City 14370, MX
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /strain="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q13.32"
+                     /clone="3B12-004"
+                     /tissue_type="brain"
+                     /dev_stage="adult"
+     gene            <1..>608
+                     /gene="STX16"
+                     /note="syntaxin 16 isoform C-like protein;
+                     aminopeptidase-like 1-like protein"
+     3'UTR           <1..>608
+                     /gene="STX16"
+ORIGIN      
+        1 ttatatacta actacataat gacctgttca aaccagactc tatttaatga actgtgaatt
+       61 tacacagagg ccattttaaa tgggtcaccc catttaggat tagtggatct caaattatta
+      121 accaaacatc actccatttc aaagtaaaat attacgccac cagcgatttg atttattggc
+      181 tcttccattg ccactgagca atgcccagga agcaggcaca ttgccaagga ctgggggcat
+      241 cttgactagg aagctcctcg tttgtgtgag cgtgggtcag accgccaaag taggacttca
+      301 tcgtttacct acctattatc aatatggtgc ttgaatatat tcctataact gtagaacagt
+      361 gtggaaagtg atggtaactt tgaagttgtt catgttttat tggctttgtt ttaattgaca
+      421 ctagtagagt tttatggtct ttgtgtaatt ttatggcttt tcattgtttt tgctctctaa
+      481 aagtttagag atatgactca ttaatgtgct gttattggac agtcacacaa atgtctctct
+      541 agagtgactt aagtgttaca gaattaactc atcagagatg agtgtcaaca gctcatggct
+      601 agtgtcaa
+//
+

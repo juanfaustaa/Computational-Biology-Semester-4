@@ -1,0 +1,28 @@
+1. Working With Biological GenBank Files (from Bio import SeqIO)
+	a. seqA = read from sequenceA.fasta v
+	b. seqB = read from sequenceB.fasta v
+
+2. Sequence Manipulation Using Python (cuma maenin array aja sih.. index gitu lah)
+	a. reverse seqA v
+	b. compliment seqB v
+	c. create seqC from the first 20 letters of seqA and the last 20 letters of seqB v
+	d. create seqD from the 20th letter up to the 40th letter of seqA and the 11th letter up to the 31st letter of seqC v
+
+3. Sequence Analysis
+	a. Determine the melting temperature of seqC using built in wallace (from Bio.SeqUtils import MeltingTemp) v
+	b. Determine the GC/AT content of seqC (from Bio.SeqUtils import GC) v
+	c. Determine the molecular weight of seqC (from Bio.SeqUtils import molecular_weight) v
+	d. Find the Nucleotides Base Frequency of seqC (from collections import Counter) v
+
+4. DNA & mRNA Protein Synthesis
+	a. transcribe seqB (transcribe())
+	a. translate seqB (translate())
+
+5. Find Sequence Alignment & Similarities
+	a. Find the local alignment between seqC and seqD (from Bio import pairwise2 from Bio.pairwise2 import format_alignment
+	print(format_alignment(*i))) v
+	b. Find the Hamming Distance between seqC and seqD (jika i != j, maka score + 1)
+	c. Find the Levenshtein Distance between seqC and seqD (from Levenshtein import distance)
+
+6. Plotting
+	a. Plot the GC/AT content of seqC and seqD

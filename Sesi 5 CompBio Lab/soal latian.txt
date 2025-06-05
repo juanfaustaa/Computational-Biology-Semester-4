@@ -1,0 +1,7 @@
+1. Read the sequence from the FASTA file
+2. Split the sequence in half into seqA and seqB
+3. Determine the melting temperature of seqA using Nearest Neighbour
+4. Determine the GC AT content of the first 20 nucleotides of seqB
+5. Plot GC and AT content of seqA and seqB
+6. Translate seqB into amino acid
+7. Find local alignments between the first 10 nucleotides of seqB and the last 10 nucleotides of seqB

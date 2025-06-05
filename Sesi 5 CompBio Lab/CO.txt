@@ -1,0 +1,15 @@
+- Working with FASTA file
+    - Parsing
+    - Read
+- Working with GenBank file
+    - Parsing
+    - Read
+- PDB
+    - Parse
+    - Structure
+- MMCIF
+    - Parse
+    - Structure
+
+
+https://pattern-error-c85.notion.site/Computational-Biology-Session-5-1ea5762ea94480689d94e25f0d9824d1?pvs=4

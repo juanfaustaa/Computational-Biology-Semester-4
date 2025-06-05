@@ -1,0 +1,60 @@
+LOCUS       PI028998                1359 bp    DNA     linear   PAT 28-MAY-2025
+DEFINITION  JP 2023544165-A/1: HUMAN PAH EXPRESSION CASSETTE FOR TREATMENT OF
+            PKU BY LIVER-DIRECTED GENE REPLACEMENT THERAPY.
+ACCESSION   PI028998
+VERSION     PI028998.1
+KEYWORDS    JP 2023544165-A/1.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1359)
+  AUTHORS   Kyostio-moore,S.R.M.
+  TITLE     HUMAN PAH EXPRESSION CASSETTE FOR TREATMENT OF PKU BY
+            LIVER-DIRECTED GENE REPLACEMENT THERAPY
+  JOURNAL   Patent: JP 2023544165-A 1 20-OCT-2023;
+            GENZYME CORP
+COMMENT     OS   Homo sapiens
+            PN   JP 2023544165-A/1
+            PD   20-OCT-2023
+            PF   30-SEP-2021 JP 2023520053
+            PR   04-DEC-2020 US 63/121797           ,01-OCT-2020 US 63/086537
+            PA   GENZYME CORP
+            PI   sirkka r m kyostio-moore
+            PT   'HUMAN PAH EXPRESSION CASSETTE FOR TREATMENT OF PKU BY
+            PT   LIVER-DIRECTED GENE
+            PT   REPLACEMENT THERAPY'
+            PS   N2
+            CC
+            FH   Key             Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1359
+                     /organism="Homo sapiens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9606"
+ORIGIN      
+        1 atgagcacag ccgtgctgga aaaccccggc ctgggcagaa agctgagcga cttcggccag
+       61 gaaaccagct acatcgagga caactgcaac cagaacggcg ccatcagcct gatcttcagc
+      121 ctgaaagaag aagtgggcgc cctggccaag gtgctgcggc tgttcgagga gaacgacgtg
+      181 aacctgaccc acatcgagag ccggcccagc agactgaaga aggacgagta cgagttcttc
+      241 acccacctgg acaagcggag cctgcccgcc ctgaccaaca tcatcaagat cctgcggcac
+      301 gacatcggcg ccaccgtgca cgagctgagc cgggacaaga aaaaggacac cgtgccctgg
+      361 ttccccagaa ccatccagga actggacaga ttcgccaacc agatcctgtc ctacggcgcc
+      421 gagctggatg ccgaccaccc tggcttcaag gaccccgtgt accgggccag acggaagcag
+      481 ttcgccgata tcgcctacaa ctaccggcac ggccagccca tccccagagt cgagtacatg
+      541 gaagaggaga agaaaacctg gggcaccgtg ttcaagaccc tgaagtccct gtacaagacc
+      601 cacgcctgct acgagtacaa ccacatcttc ccactgctcg aaaagtactg cggcttccac
+      661 gaggacaata tccctcagct ggaggacgtg tcccagtttc tgcagacctg caccggcttc
+      721 agactcaggc ctgtggccgg cctgctgagc agcagagatt ttctgggcgg actggccttc
+      781 cgggtgttcc actgcaccca gtacatcaga cacggcagca agcccatgta cacccctgag
+      841 cccgacatct gccacgagct gctgggacat gtgcccctgt tcagcgacag aagcttcgcc
+      901 cagttcagcc aggaaatcgg cctggcctct ctgggcgctc ccgacgagta tatcgagaag
+      961 ctggccacca tctactggtt caccgtggaa ttcggcctgt gcaagcaggg cgacagcatc
+     1021 aaggcctatg gcgccggact cctgtccagc ttcggcgagc tgcagtactg tctgagcgag
+     1081 aagcccaagc tgctgcccct ggaactggaa aagaccgcca tccagaacta caccgtgacc
+     1141 gagttccagc ccctgtacta cgtggccgag agcttcaacg acgccaaaga aaaagtgcgg
+     1201 aacttcgccg ccaccatccc tcggcccttc agcgtcagat acgaccccta cacccagcgg
+     1261 atcgaggtgc tggacaacac acagcagctg aaaattctgg ccgactccat caacagcgag
+     1321 atcggcatcc tgtgcagcgc cctgcagaaa atcaagtga
+//
